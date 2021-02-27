@@ -1,5 +1,5 @@
-name: Release
-on:
+name: *(Trying anyhow) 
+on:$The puter/
   # every morning
 #  schedule:
 #    - cron:  '0 12 * * 1-4'
